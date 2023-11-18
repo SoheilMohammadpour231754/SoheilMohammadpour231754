@@ -7,6 +7,6 @@
 
 
 <div align="center">
-  <a href=#><img src="[contributions.svg](https://raw.githubusercontent.com/soheil-mp/soheil-mp/main/contributions.svg)https://raw.githubusercontent.com/soheil-mp/soheil-mp/main/contributions.svg"></a> 
+  <a href=#><img src="https://raw.githubusercontent.com/soheil-mp/soheil-mp/main/contributions.svg"></a> 
 </div>
 
